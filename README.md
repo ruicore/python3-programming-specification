@@ -722,7 +722,7 @@
 
     # 或者
     if my_key not in my_dict:
-    raise KeyError
+        raise KeyError
     ```
 >
 3. **【推荐】** **不放大错误**
