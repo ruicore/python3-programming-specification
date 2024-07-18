@@ -915,7 +915,7 @@ This section provides some coding guidance, especially on how to make decisions 
 
 ## II. Type Annotations
 
-**Why are Python type annotations (Type Annotation) becoming increasingly important and widely used?**
+**Why are Python Type Annotation becoming increasingly important and widely used?**
 
 1. Improves code readability: Type annotations make it easier for developers to understand the expected inputs and outputs of functions, classes, and methods, greatly improving code readability and making it easier for others to maintain and extend the code.
 
