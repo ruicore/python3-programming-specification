@@ -1,4 +1,4 @@
-# Python3 Code Development Programming Conventions
+# Python3 Project Code Conventions
 
 > 🎉 What makes code good? How to review others' code?
 
