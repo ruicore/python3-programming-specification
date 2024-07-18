@@ -963,5 +963,3 @@ Some Python specification documents and inspection tools:
 4. [Pylint](https://pylint.readthedocs.io/en/latest/)
 5. [Pyright](https://github.com/microsoft/pyright)
 6. [Mypy](https://mypy.readthedocs.io/en/stable/command_line.html)
-
-**You can also read the [Feishu version of this document](https://mago5n25ae.feishu.cn/docx/BIzOdy4N9oELQQxuD8qcIDTKnsg?from=from_copylink), which has a more user-friendly format.**
