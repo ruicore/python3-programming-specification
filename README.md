@@ -1,5 +1,7 @@
 # Python3 Project Code Conventions
 
+This is a Python Engineering Style Guide.
+
 > 🎉 What makes code good? How to review others' code?
 
 Generally, good code can be judged from the following 3 aspects:
