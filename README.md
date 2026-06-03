@@ -4,6 +4,10 @@ This is a Python Engineering Style Guide.
 
 > 🎉 What makes code good? How to review others' code?
 
+This repository is my long-form coding-standard reference for Python projects. It is focused on practical review judgment rather than formatter-only style: readability, extensibility, robustness, naming, function shape, data flow, exception behavior, and maintainability.
+
+It is also a useful public snapshot of how I think about engineering quality. The rules are intentionally opinionated, but the deeper goal is simple: make code easier to read, safer to change, and more predictable under long-term maintenance.
+
 Generally, good code can be judged from the following 3 aspects:
 
 1. **Readability**
